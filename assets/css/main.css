@@ -812,6 +812,8 @@ a.back-to-top:hover, a.back-to-top:focus {
     color: rgba(128, 0, 32, 1);
 }
 
+
+
 .progress-lang p {
   font-size: 25px;
   margin: 20px 0 10px 0;
@@ -857,6 +859,10 @@ a.back-to-top:hover, a.back-to-top:focus {
   overflow: hidden;
   display: block;
   position: relative;
+}
+
+.portfolio-content {
+  height: 60px;
 }
 
 .portfolio-img img {
